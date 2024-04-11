@@ -3,6 +3,8 @@ layout: post
 title: Introducing Hyde
 ---
 
+<iframe src="https://podcasters.spotify.com/pod/show/burishangying/embed/episodes/1-e2hngt9" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 Hyde is a brazen two-column [Jekyll](https://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](https://getpoole.com), the Jekyll butler.
 
 ### Built on Poole
