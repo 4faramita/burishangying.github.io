@@ -3,10 +3,6 @@ layout: page
 title: About
 ---
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+<p class="message">
+  Coming soon.
+</p>
