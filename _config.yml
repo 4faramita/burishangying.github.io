@@ -2,14 +2,14 @@
 title:            '不日上映'
 tagline:          'Coming soon'
 description:      '一档由 Kammy 和壳仔带来的播客'
-url:              https://burishangying.com
+url:              https://brsy.net/
 baseurl:          ''
 paginate:         5
 
 # About and contact
 author:
   name:           'Kammy, 壳'
-  url:            https://burishangying.com
+  url:            https://brsy.net/
 
 # Gems
 plugins:
